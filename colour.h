@@ -1,0 +1,6 @@
+#ifndef COLOUR_H_INCLUDED
+#define COLOUR_H_INCLUDED
+
+#ifndef COLOUR_H_INCLUDED
+
+
